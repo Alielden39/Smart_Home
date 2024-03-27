@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>Smart Home</name>
+            <creation-uuid>ea34efc3-f648-448d-b0be-030f77cf15fc</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>RealTimeClock_DS1307</sourceRootElem>
+                <sourceRootElem>AECUL_Modules</sourceRootElem>
+                <sourceRootElem>ECUL</sourceRootElem>
+                <sourceRootElem>../Interfacing_Application/Ecua_Layer/7_SEGMENT</sourceRootElem>
+                <sourceRootElem>Ecua_Layer</sourceRootElem>
+                <sourceRootElem>Mca_Layer</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>default</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>
